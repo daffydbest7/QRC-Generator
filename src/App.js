@@ -1,5 +1,5 @@
 import './App.css';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
 import QRCode from 'qrcode.react';
 import { useState } from 'react';
 
