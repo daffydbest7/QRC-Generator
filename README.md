@@ -1,1 +1,1 @@
-Nabena QRC 
+KIng David Dynamic QR Code Generator 
